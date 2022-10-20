@@ -50,8 +50,6 @@ class Complexo{
             }else{
                 o<<t.total;
             }
-        
-
             return o;
         }
 };
