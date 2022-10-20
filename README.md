@@ -29,14 +29,3 @@ Implemente um programa em C++ chamado `complexo`que permita criar e operar dois 
   + Entrada: `./complexo 1 2 3 4 |`
   + Saída: `2.24;5`
 
-## Orientações gerais
-+ Para essa atividade, construa uma classe que permita representar e operar números complexos. Você deve utilizar, obrigatoriamente, sobrecarga de operadores para as operações acima descritas. Para a apresentação de números complexos no terminal, você deve utilizar o operador de inserção em *stream* ( $<<$ ).  
-+ Inclua seus arquivos nas pastas `src` e `include`. Não modifique a pasta `.github`.
-+ Você deverá escrever um arquivo Makefile para gerenciar o processo de compilação.
-+ O arquivo executável deve ser direcionado para a pasta `bin` (não é preciso adicionar o executável ao repositório, apenas indicar o seu caminho no Makefile).
-+ Utilize apenas duas casas decimais com arredondamento para cima.
-
-# Extra (opcional)
-
-Para praticar, altere a classe que representa números complexos de forma que seus atributos sejam alocados de forma dinâmica.
-
